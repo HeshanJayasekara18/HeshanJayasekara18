@@ -8,14 +8,13 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🌟 3D GitHub Contribution Snake
+🌟 Welcome to My Digital Space
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Heshan%20Jayasekara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20SLIIT&descAlignY=55&descAlign=50" />
 </div>
+<div align="center">
+</div>
+
 
 ## 🎓 About Me
 
@@ -60,12 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanJayasekara18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 🚀 3D Contribution Calendar
-<div align="center">
-  <img src="https://github-readme-3d-contrib-calendar.vercel.app/api/HeshanJayasekara18?theme=dark" alt="3D Contribution Calendar" />
-</div>
-
-
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -83,9 +76,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshan-jayasekara-037b92312/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://heshan-jayasekara.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshanjayasekara18@gmail.com)
 
 </div>
 
