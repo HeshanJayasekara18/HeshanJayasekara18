@@ -86,28 +86,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanJayasekara18&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
+<hr>
+<br> <br>
 
-## 🎮 Interactive 3D Elements
-<div align="center">
-  
-```
-       🌟 SLIIT Software Engineer 🌟
-            ╭─────────────────╮
-            │  ████████████   │
-            │  ██  CODE  ██   │  
-            │  ████████████   │
-            │  ██ PYTHON ██   │
-            │  ██  JAVA  ██   │
-            │  ██ REACT  ██   │
-            │  ████████████   │
-            ╰─────────────────╯
-                  ▲ ▼ ▲ ▼
-               🔥 MERN STACK 🔥
-```
-
-</div>
-
-## 🌈 Dynamic Wave Animation
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
