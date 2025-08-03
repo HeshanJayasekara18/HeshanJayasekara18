@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-🌟 Welcome to My Digital Space
+<h1><center>🌟 Welcome to My Digital Space </center></h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Heshan%20Jayasekara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20SLIIT&descAlignY=55&descAlign=50" />
 </div>
