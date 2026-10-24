@@ -1,106 +1,106 @@
-# Hi there! 👋 I'm Heshan Jayasekara
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;MERN+Stack+Developer;Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Heshan%20Jayasekara&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20Undergraduate%20%40%20SLIIT&descAlignY=58&descSize=18" width="100%" />
 
-<h1><center>🌟 Welcome to My Digital Space </center></h1>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Heshan%20Jayasekara&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20@%20SLIIT&descAlignY=55&descAlign=50" />
-</div>
-<div align="center">
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Turning+ideas+into+web+apps+%F0%9F%92%A1;Problem+Solver+%7C+Lifelong+Learner;Open+to+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
+<br/>
 
-## 🎓 About Me
+<a href="https://www.linkedin.com/in/heshan-jayasekara-037b92312/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://heshan-jayasekara.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=black" /></a>
+<a href="mailto:heshanjayasekara18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=HeshanJayasekara18&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 
-- 🏫 **Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 💻 **Information Technology** student specializing in **Software Engineering**
-- 🚀 Passionate about building scalable web applications and solving complex problems
-- 🌱 Currently expanding my knowledge in full-stack development
-- 📫 Always open to collaborate on exciting projects!
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeshanJayasekara18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanJayasekara18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanJayasekara18&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeshanJayasekara18&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 💼 What I'm Working On
-
-- 🔭 Building full-stack applications using the **MERN** stack
-- 🌟 Contributing to open-source projects
-- 📚 Learning advanced software engineering principles
-- 💡 Exploring new technologies and frameworks
-
-## 🌐 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshan-jayasekara-037b92312/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://heshan-jayasekara.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshanjayasekara18@gmail.com)
-
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanJayasekara18&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-<hr>
-<br> <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeshanJayasekara18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
+
+```js
+const heshan = {
+  location:   "Sri Lanka 🇱🇰",
+  education:  "BSc (Hons) IT – Software Engineering @ SLIIT",
+  focus:      ["Full-Stack Web Apps", "MERN Stack", "Clean Architecture"],
+  learning:   ["TypeScript", "Next.js", "Docker", "Cloud"],
+  funFact:    "I debug with console.log and I'm not sorry 😄",
+  openTo:     "Internships • Collaborations • Open Source",
+};
+```
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,java,cpp,c,html,css&theme=dark" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind&theme=dark" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<!-- Replace the names, descriptions and links below with your real repos -->
+| Project | Description | Tech |
+|:--|:--|:--|
+| 🛒 [**Project One**](https://github.com/HeshanJayasekara18/REPO-NAME) | Short one-line description of what it does | React · Node · MongoDB |
+| 📅 [**Project Two**](https://github.com/HeshanJayasekara18/REPO-NAME) | Short one-line description of what it does | MERN · Tailwind |
+| 🧠 [**Project Three**](https://github.com/HeshanJayasekara18/REPO-NAME) | Short one-line description of what it does | Java · MySQL |
+
+---
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HeshanJayasekara18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshanJayasekara18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF" />
+
+<img src="https://streak-stats.demolab.com?user=HeshanJayasekara18&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanJayasekara18&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff" />
+
+</div>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HeshanJayasekara18/HeshanJayasekara18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HeshanJayasekara18/HeshanJayasekara18/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/HeshanJayasekara18/HeshanJayasekara18/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+### 💬 *"First, solve the problem. Then, write the code."* – John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
