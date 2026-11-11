@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Heshan%20Jayasekara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Heshan%20Jayasekara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=%20Software%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer;Full-Stack+MERN+Developer;Turning+ideas+into+web+apps;Problem+Solver+%7C+Lifelong+Learner;Open+to+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+MERN+Developer;Turning+ideas+into+web+apps;Problem+Solver+%7C+Lifelong+Learner;Open+to+collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
