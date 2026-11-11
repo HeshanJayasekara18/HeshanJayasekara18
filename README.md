@@ -33,7 +33,7 @@ interface Engineer {
 
 class SoftwareEngineer implements Engineer {
   readonly name = "Heshan Jayasekara";
-  readonly role = "Associate Software Engineer";
+  readonly role = "Software Engineer";
   readonly location = "Sri Lanka 🇱🇰";
 
   readonly education = {
